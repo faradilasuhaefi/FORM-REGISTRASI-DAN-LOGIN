@@ -4,7 +4,7 @@ Ini adalah proyek API yang berisi halaman dengan form pendaftaran dan login. Pro
 
 ## Fitur-Fitur
 
-1. Form pendaftaran yang berisi beberapa input, seperti nama, email, alamat, dan password. Data dari form pendafataran akan disimpan di database MySQL.
+1. Form pendaftaran yang berisi beberapa input, seperti nama, email, alamat, dan password. Data dari form pendaftaran akan disimpan di database MySQL.
 
 2. Konfirmasi email pendaftaran menggunakan PHP-Mailer.
    
