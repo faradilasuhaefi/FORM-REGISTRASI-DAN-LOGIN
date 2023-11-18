@@ -20,7 +20,7 @@ Ini adalah proyek API yang berisi halaman dengan form pendaftaran dan login. Pro
 
 ## Catatan
 
-Demonstrasi program dapat dilihat [di sini](https://drive.google.com/file/d/1myswLjmh1eTm8ysNOlCgFUtIpmZGzLrh/view?usp=sharing)
+Demonstrasi program dapat dilihat [di sini](https://youtu.be/Cj1RsPbe1bQ)
    
 ## Kontak
 
